@@ -1,0 +1,1 @@
+Add your latest resume PDF to this folder and name it resume.pdf. The website resume buttons already point to assets/resume.pdf.
